@@ -33,12 +33,7 @@ public class Main {
                 cand_list.add(new Candidate(student_num, i, 1));
             }
         }
-        Collections.sort(cand_list, new Comparator<Candidate>() {
-            @Override
-            public int compare(Candidate o1, Candidate o2) {
-                return Integer.compare(o1.num, o2.num);
-            }
-        });
+        Collections.sort(cand_list, Comparator.comparingInt(o -> o.num));
 
         for(int i=0; i<cand_list.size(); i++){
             System.out.print(cand_list.get(i).num);
