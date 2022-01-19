@@ -13,6 +13,10 @@ public class Main {
     public static ArrayList<Long> subA;
     public static ArrayList<Long> subB;
 
+    /*
+        - 투포인터
+        - 앞뒤값 비교하는 방식 쓰지 말 것
+     */
 
     public static void main(String[] args) throws IOException {
 
@@ -58,12 +62,6 @@ public class Main {
         Collections.sort(subA);
         Collections.sort(subB);
 
-
-        /*
-        1 1 2 3 3 4 4 5 6 7
-        1 2 3 4 5 6
-         */
-        // 투포인터 : 앞뒤값 비교x
         int a_point = 0, b_point = subB.size() - 1;
         long sub_sum = 0, total_cnt = 0;
         while(a_point < subA.size() && b_point > -1){
