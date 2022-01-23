@@ -28,7 +28,7 @@ public class Main {
     public static StringBuilder sb = new StringBuilder();
     public static boolean [][] visited;
     public static char [][] map;
-    public static int sum, count;
+    public static long sum, count;
     public static String answer;
 
     public static int [] dx = {0, 0, 1, -1, -1, 1, -1, 1};
@@ -55,6 +55,7 @@ public class Main {
             current.isEnd = true;
         }
 
+        br.readLine();
         b = Integer.parseInt(br.readLine());
         StringBuilder resultSb = new StringBuilder();
         for(int n=0 ;n<b; n++){
@@ -79,7 +80,12 @@ public class Main {
                     }
                 }
             }
+            System.out.print(sum);
+            System.out.print(" " + answer + " ");
+            System.out.println(count);
+
             root.clearHit();
+            br.readLine();
         }
 
     }
@@ -107,17 +113,16 @@ public class Main {
             if(compare(foundWord, answer) > 0){
                 answer = foundWord;
             }
-            return;
         }
         // 3) 연결된 곳 탐색
-        for(int i=0; i<8; i++){
+        for (int i = 0; i < 8; i++) {
             int ny = y + dy[i];
             int nx = x + dx[i];
 
-            if(ny >= 0 && ny < 4 && nx >= 0 && nx < 4){
-                if(visited[ny][nx] == false){
-                    if(node.hasChild(map[y][x])){
-                        search(ny, nx, length + 1, node.getChild(map[y][x]));
+            if (ny >= 0 && ny < 4 && nx >= 0 && nx < 4) {
+                if (visited[ny][nx] == false) {
+                    if (node.hasChild(map[ny][nx])) {
+                        search(ny, nx, length + 1, node.getChild(map[ny][nx]));
                     }
                 }
             }
@@ -131,7 +136,7 @@ public class Main {
     public static int compare(String o1, String o2){
         int result = Integer.compare(o1.length(), o2.length());
         if(result == 0){
-            return o1.compareTo(o2);
+            return o2.compareTo(o1);
         } else {
             return result;
         }
