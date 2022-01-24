@@ -62,7 +62,7 @@ public class Main {
     public static void findShortestPath(int start){
         answerList[start] = 0;
 
-        for(int i=1; i<N-1; i++){
+        for(int i=0; i<N-1; i++){
             for(int j=0; j<M; j++){
                 Edge currentEdge = edgeList[j];
                 if(answerList[currentEdge.start] != INF){
