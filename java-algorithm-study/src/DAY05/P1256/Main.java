@@ -14,6 +14,7 @@ public class Main {
 
     public static int N, M, K;
     public static int [][] dp;
+    public static StringBuilder answer = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
         System.setIn(new FileInputStream("src/DAY05/P1256/input.txt"));
@@ -24,9 +25,37 @@ public class Main {
         M = Integer.parseInt(st.nextToken());
         K = Integer.parseInt(st.nextToken());
 
-        dp = new int[N+K+1][N+K+1];
+        dp = new int[N+M+1][N+M+1];
 
-        System.out.println(combination(4,2));
+        int M_num = M;
+        boolean answer_flag = false;
+        for(int i=N+M-1; i>=0; i--){
+            int comb = combination(i, M_num);
+            if(comb >= K){
+                answer.append('a');
+            } else {
+                answer.append('z');
+                M_num--;
+                K -= comb;
+            }
+
+            if(i == M_num){
+                for(int j=0; j<i; j++){
+                    answer.append('z');
+                }
+                answer_flag = true;
+                break;
+            } else if(M_num < 0){
+                break;
+            }
+        }
+
+        if(answer_flag == false){
+            System.out.println(-1);
+        } else {
+            System.out.println(answer.toString());
+        }
+
 
     }
 
