@@ -67,6 +67,8 @@ public class Main {
 
             // 3. 해당 노드로부터 연결된 또 다른 노드를 방문하면서, 기존의 가중치 > ( 2번 노드 가중치 + 3번 노드 가중치 ) 이면 업데이트한다.
             for (Info adj : nodeList[current.node]) {
+                int tmpA = answer[current.node] + adj.distance;
+                int tmpB = answer[adj.node];
                 if(answer[current.node] + adj.distance < answer[adj.node]){
                     answer[adj.node] = answer[current.node] + adj.distance;
                     pq.add(new Info(adj.node, answer[adj.node]));
