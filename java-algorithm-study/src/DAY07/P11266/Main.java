@@ -11,6 +11,10 @@ import java.util.StringTokenizer;
 
 public class Main {
 
+    /*
+        - 단절점
+     */
+
     public static int V, E, A, B, order;
     public static Node [] nodeList;
     public static boolean [] isCutVertex;
