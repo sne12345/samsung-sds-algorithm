@@ -8,10 +8,14 @@ import java.util.*;
 
 public class Main {
 
+    /*
+        - 최소 신장 트리 : 크루스칼
+        - Union & Find
+     */
+
     public static int N, M;
     public static int a, b, c;
     public static long sum, cnt;
-
 
     public static Edge [] edgeList;
     public static int [] nodeList;
