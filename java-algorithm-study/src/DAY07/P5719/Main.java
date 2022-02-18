@@ -5,6 +5,10 @@ import java.util.*;
 
 public class Main {
 
+    /*
+        - 다익스트라
+     */
+
     public static int N, M, S, D, U, V, P;
     public static int INF = Integer.MAX_VALUE;
 
