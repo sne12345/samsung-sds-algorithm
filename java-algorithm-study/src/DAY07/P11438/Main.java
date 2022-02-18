@@ -10,6 +10,10 @@ import java.util.StringTokenizer;
 
 public class Main {
 
+    /*
+        - LCA
+     */
+
     public static int N, M;
     public static int LogN;  // 2의 몇 제곱까지 계산할지를 저장하는 변수 (N이 10만이니 17로 선언해도 무방)
     public static int [] Depth;
