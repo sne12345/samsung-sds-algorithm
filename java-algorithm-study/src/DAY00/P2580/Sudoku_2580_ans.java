@@ -1,4 +1,4 @@
-package com.company.P2580;
+package DAY00.P2580;
 
 import java.io.BufferedWriter;
 import java.io.OutputStreamWriter;

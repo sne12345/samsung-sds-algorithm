@@ -1,4 +1,4 @@
-package com.company.P14889;
+package DAY00.P14889;
 import java.util.Scanner;
 
 public class StartAndLink_14889_me {

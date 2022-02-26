@@ -1,4 +1,4 @@
-package com.company.SDS01;
+package DAY00.SDS01;
 
 import java.util.ArrayList;
 import java.util.Collections;

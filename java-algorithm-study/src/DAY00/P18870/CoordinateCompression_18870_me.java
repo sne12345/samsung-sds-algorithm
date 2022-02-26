@@ -1,7 +1,6 @@
-package com.company.P18870;
+package DAY00.P18870;
 
 import java.util.*;
-import java.util.Map.Entry;
 
 public class CoordinateCompression_18870_me {
 

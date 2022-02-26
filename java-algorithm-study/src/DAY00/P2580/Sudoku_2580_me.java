@@ -1,5 +1,4 @@
-package com.company.P2580;
-import java.util.List;
+package DAY00.P2580;
 import java.util.Scanner;
 import java.util.LinkedList;
 import java.util.Queue;
