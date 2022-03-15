@@ -4,6 +4,8 @@
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
 |DAY00|[P10926](https://www.acmicpc.net/problem/10926)|브론즈|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P10926/Main.java)|
+|DAY00|[P11053](https://www.acmicpc.net/problem/11053)|실버|DP|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P11053/Main.java)|
+|DAY00|[P11054](https://www.acmicpc.net/problem/11054)|골드|DP|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P11054/Main.java)|
 |DAY00|[P14889](https://www.acmicpc.net/problem/14889)|실버|백트래킹|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P14889/StartAndLink_14889_me.java)|
 |DAY00|[P18108](https://www.acmicpc.net/problem/18108)|브론즈|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P18108/Main.java)|
 |DAY00|[P18870](https://www.acmicpc.net/problem/18870)|브론즈|정렬|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P18870/CoordinateCompression_18870_me.java)|
@@ -16,6 +18,7 @@
 ### DAY01
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
+|DAY01|[P1039](https://www.acmicpc.net/problem/1039)|골드|BFS|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1039/Main.java)|
 |DAY01|[P1065](https://www.acmicpc.net/problem/1065)|실버|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1065/Main.java)|
 |DAY01|[P1103](https://www.acmicpc.net/problem/1103)|골드|DP & DFS|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1103/Main.java)|
 |DAY01|[P1713](https://www.acmicpc.net/problem/1713)|실버|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1713/Main.java)|
@@ -37,3 +40,16 @@
 |DAY02|[P2805](https://www.acmicpc.net/problem/2805)|골드|DP & DFS|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P2805/Main.java)|
 |DAY02|[P2842](https://www.acmicpc.net/problem/2842)|골드|BFS & 투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P2842/Main.java)|
 |DAY02|[P7453](https://www.acmicpc.net/problem/7453)|골드|이분탐색 & 투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P7453/Main.java)|
+
+
+### DAY03
+|일차|문제|난이도|알고리즘|풀이|
+|---|---|---|---|---|
+|DAY03|[P11279](https://www.acmicpc.net/problem/11279)|골드|우선순위큐|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY03/P11279/Main.java)|
+|DAY03|[P1202](https://www.acmicpc.net/problem/1202)|골드|정렬 & 우선순위큐|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY03/P1202/Main.java)|
+|DAY03|[P1927](https://www.acmicpc.net/problem/1927)|골드|우선순위큐|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY03/P1927/Main.java)|
+|DAY03|[P2042](https://www.acmicpc.net/problem/2042)|플래티넘|세그먼트트리|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY03/P2042/Main.java)|
+|DAY03|[P2243](https://www.acmicpc.net/problem/2243)|플래티넘|세그먼트트리 & 이분탐색|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY03/P2243/Main.java)|
+|DAY03|[P7578](https://www.acmicpc.net/problem/7578)|플래티넘|세그먼트트리|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY03/P7578/Main.java)|
+|DAY03|[P9202](https://www.acmicpc.net/problem/9202)|플래티넘|트라이 & DFS|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY03/P9202/Main.java)|
+
