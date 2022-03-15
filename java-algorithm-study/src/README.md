@@ -22,3 +22,18 @@
 |DAY01|[P1759](https://www.acmicpc.net/problem/1759)|실버|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1759/Main.java)|
 |DAY01|[P3055](https://www.acmicpc.net/problem/3055)|골드|BFS|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P3055/Main.java)|
 |DAY01|[P3425](https://www.acmicpc.net/problem/3425)|실버|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P3425/Main.java)|
+
+
+### DAY02
+|일차|문제|난이도|알고리즘|풀이|
+|---|---|---|---|---|
+|DAY02|[P1072](https://www.acmicpc.net/problem/1072)|골드|이분탐색|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P1072/Main.java)|
+|DAY02|[P11003](https://www.acmicpc.net/problem/11003)|골드|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P11003/Main.java)|
+|DAY02|[P13417](https://www.acmicpc.net/problem/13417)|골드|투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P13417/Main.java)|
+|DAY02|[P1806](https://www.acmicpc.net/problem/1806)|골드|투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P1806/Main.java)|
+|DAY02|[P2003](https://www.acmicpc.net/problem/2003)|골드|이분탐색 & 누적합|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P2003/Main.java)|
+|DAY02|[P2143](https://www.acmicpc.net/problem/2143)|골드|DP|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P2143/Main.java)|
+|DAY02|[P2748](https://www.acmicpc.net/problem/2748)|골드|이분탐색|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P2748/Main.java)|
+|DAY02|[P2805](https://www.acmicpc.net/problem/2805)|골드|DP & DFS|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P2805/Main.java)|
+|DAY02|[P2842](https://www.acmicpc.net/problem/2842)|골드|BFS & 투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P2842/Main.java)|
+|DAY02|[P7453](https://www.acmicpc.net/problem/7453)|골드|이분탐색 & 투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P7453/Main.java)|
