@@ -1,6 +1,6 @@
 # 삼성SDS 22년 동계 대학생 알고리즘 특강
 
-### DAY00
+### DAY00 : 특강준비 
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
 |DAY00|[P10926](https://www.acmicpc.net/problem/10926)|브론즈|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P10926/Main.java)|
@@ -15,7 +15,7 @@
 |DAY00|[P2580](https://www.acmicpc.net/problem/2580)|실버|백트래킹|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P2580/Sudoku_2580_me.java)|
 
 
-### DAY01
+### DAY01 : 알고리즘 기초
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
 |DAY01|[P1039](https://www.acmicpc.net/problem/1039)|골드|BFS|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1039/Main.java)|
@@ -28,7 +28,7 @@
 |DAY01|[P3425](https://www.acmicpc.net/problem/3425)|실버|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P3425/Main.java)|
 
 
-### DAY02
+### DAY02 : 시간복잡도
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
 |DAY02|[P1072](https://www.acmicpc.net/problem/1072)|골드|이분탐색|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P1072/Main.java)|
@@ -43,7 +43,7 @@
 |DAY02|[P7453](https://www.acmicpc.net/problem/7453)|골드|이분탐색 & 투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY02/P7453/Main.java)|
 
 
-### DAY03
+### DAY03 : 자료구조
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
 |DAY03|[P11279](https://www.acmicpc.net/problem/11279)|골드|우선순위큐|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY03/P11279/Main.java)|
@@ -56,7 +56,7 @@
 
 
 
-### DAY04
+### DAY04 : 정수론
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
 |DAY04|[P14476](https://www.acmicpc.net/problem/14476)|플래티넘|정수론 & 유클리드 호제법|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY04/P14476/Main.java)|
@@ -66,7 +66,7 @@
 
 
 
-### DAY05
+### DAY05 : 조합론
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
 |DAY05|[P1256](https://www.acmicpc.net/problem/1256)|플래티넘|DP & 조합론|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY05/P1256/Main.java)|
@@ -74,7 +74,7 @@
 |DAY05|[P15664](https://www.acmicpc.net/problem/15664)|골드|백트래킹|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY05/P15664/Main.java)|
 
 
-### DAY06
+### DAY06 : 그래프1
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
 |DAY06|[P11657](https://www.acmicpc.net/problem/11657)|골드|벨만포드|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY06/P11657/Main.java)|
@@ -86,7 +86,7 @@
 
 
 
-### DAY07
+### DAY07 : 그래프2
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
 |DAY07|[P11266](https://www.acmicpc.net/problem/11266)|플래티넘|단절점|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY07/P11266/Main.java)|
