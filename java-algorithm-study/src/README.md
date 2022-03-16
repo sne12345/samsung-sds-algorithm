@@ -63,3 +63,36 @@
 |DAY04|[P1837](https://www.acmicpc.net/problem/1837)|골드|브루트포스|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY04/P1837/Main.java)|
 |DAY04|[P2960](https://www.acmicpc.net/problem/2960)|골드|정수론 & 에라토스테네스의 체|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY04/P2960/Main.java)|
 |DAY04|[P3955](https://www.acmicpc.net/problem/3955)|플래티넘|정수론 & 확장 유클리드 호제법|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY04/P3955/Main.java)|
+
+
+
+### DAY05
+|일차|문제|난이도|알고리즘|풀이|
+|---|---|---|---|---|
+|DAY05|[P1256](https://www.acmicpc.net/problem/1256)|플래티넘|DP & 조합론|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY05/P1256/Main.java)|
+|DAY05|[P15663](https://www.acmicpc.net/problem/15663)|골드|백트래킹|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY05/P15663/Main.java)|
+|DAY05|[P15664](https://www.acmicpc.net/problem/15664)|골드|백트래킹|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY05/P15664/Main.java)|
+
+
+### DAY06
+|일차|문제|난이도|알고리즘|풀이|
+|---|---|---|---|---|
+|DAY06|[P11657](https://www.acmicpc.net/problem/11657)|골드|벨만포드|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY06/P11657/Main.java)|
+|DAY06|[P1197](https://www.acmicpc.net/problem/1197)|골드|최소신장트리|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY06/P1197/Main.java)|
+|DAY06|[P1647](https://www.acmicpc.net/problem/1647)|골드|최소신장트리|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY06/P1647/Main.java)|
+|DAY06|[P1717](https://www.acmicpc.net/problem/1717)|골드|분리집합|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY06/P1717/Main.java)|
+|DAY06|[P1922](https://www.acmicpc.net/problem/1922)|골드|최소신장트리|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY06/P1922/Main.java)|
+|DAY06|[P2252](https://www.acmicpc.net/problem/2252)|골드|위상정렬|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY06/P2252/Main.java)|
+
+
+
+### DAY07
+|일차|문제|난이도|알고리즘|풀이|
+|---|---|---|---|---|
+|DAY07|[P11266](https://www.acmicpc.net/problem/11266)|플래티넘|단절점|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY07/P11266/Main.java)|
+|DAY07|[P11438](https://www.acmicpc.net/problem/11438)|플래티넘|LCA|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY07/P11438/Main.java)|
+|DAY07|[P1753](https://www.acmicpc.net/problem/1753)|골드|다익스트라|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY07/P1753/Main.java)|
+|DAY07|[P1854](https://www.acmicpc.net/problem/1854)|골드|다익스트라|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY07/P1854/Main.java)|
+|DAY07|[P5719](https://www.acmicpc.net/problem/5719)|골드|다익스트라|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY07/P5719/Main.java)|
+
+
