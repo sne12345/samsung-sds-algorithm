@@ -54,3 +54,12 @@
 |DAY03|[P7578](https://www.acmicpc.net/problem/7578)|플래티넘|세그먼트트리|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY03/P7578/Main.java)|
 |DAY03|[P9202](https://www.acmicpc.net/problem/9202)|플래티넘|트라이 & DFS|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY03/P9202/Main.java)|
 
+
+
+### DAY04
+|일차|문제|난이도|알고리즘|풀이|
+|---|---|---|---|---|
+|DAY04|[P14476](https://www.acmicpc.net/problem/14476)|플래티넘|정수론 & 유클리드 호제법|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY04/P14476/Main.java)|
+|DAY04|[P1837](https://www.acmicpc.net/problem/1837)|골드|브루트포스|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY04/P1837/Main.java)|
+|DAY04|[P2960](https://www.acmicpc.net/problem/2960)|골드|정수론 & 에라토스테네스의 체|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY04/P2960/Main.java)|
+|DAY04|[P3955](https://www.acmicpc.net/problem/3955)|플래티넘|정수론 & 확장 유클리드 호제법|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY04/P3955/Main.java)|
