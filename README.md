@@ -21,6 +21,7 @@
 |DAY01|[P1039](https://www.acmicpc.net/problem/1039)|골드|BFS|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1039/Main.java)|
 |DAY01|[P1065](https://www.acmicpc.net/problem/1065)|실버|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1065/Main.java)|
 |DAY01|[P1103](https://www.acmicpc.net/problem/1103)|골드|DP & DFS|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1103/Main.java)|
+|DAY01|[P1339](https://www.acmicpc.net/problem/1339)|골드|그리디 & 브루트포스|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1339/Main.java)|
 |DAY01|[P1713](https://www.acmicpc.net/problem/1713)|실버|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1713/Main.java)|
 |DAY01|[P1759](https://www.acmicpc.net/problem/1759)|실버|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P1759/Main.java)|
 |DAY01|[P3055](https://www.acmicpc.net/problem/3055)|골드|BFS|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY01/P3055/Main.java)|
