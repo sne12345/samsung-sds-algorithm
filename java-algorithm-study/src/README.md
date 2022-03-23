@@ -97,3 +97,10 @@
 |DAY07|[P5719](https://www.acmicpc.net/problem/5719)|골드|다익스트라|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY07/P5719/Main.java)|
 
 
+
+### FINAL : 시뮬레이션, 구현
+|일차|문제|난이도|알고리즘|풀이|
+|---|---|---|---|---|
+|FINAL|[P12100](https://www.acmicpc.net/problem/12100)|골드|시뮬레이션, 구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P12100/Main.java)|
+
+
