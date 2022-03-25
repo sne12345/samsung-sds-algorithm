@@ -106,5 +106,6 @@
 |FINAL|[P1644](https://www.acmicpc.net/problem/1644)|골드|투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P1644/Main.java)|
 |FINAL|[P2470](https://www.acmicpc.net/problem/2470)|골드|투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P2470/Main.java)|
 |FINAL|[P3273](https://www.acmicpc.net/problem/3273)|실버|투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P3273/Main.java)|
+|FINAL|[P1450](https://www.acmicpc.net/problem/1450)|골드|냅색|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P1450/Main.java)|
 
 
