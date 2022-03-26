@@ -13,6 +13,7 @@
 |DAY00|[P2480](https://www.acmicpc.net/problem/2480)|브론즈|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P2480/Main.java)|
 |DAY00|[P2525](https://www.acmicpc.net/problem/2525)|브론즈|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P2525/Main.java)|
 |DAY00|[P2580](https://www.acmicpc.net/problem/2580)|실버|백트래킹|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P2580/Sudoku_2580_me.java)|
+|DAY00|[P2565](https://www.acmicpc.net/problem/2565)|골드|DP|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P2565/Main.java)|
 
 
 ### DAY01 : 알고리즘 기초
