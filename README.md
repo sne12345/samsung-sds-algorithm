@@ -15,6 +15,13 @@
 |DAY00|[P2580](https://www.acmicpc.net/problem/2580)|실버|백트래킹|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P2580/Sudoku_2580_me.java)|
 |DAY00|[P2565](https://www.acmicpc.net/problem/2565)|골드|DP|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P2565/Main.java)|
 |DAY00|[P9251](https://www.acmicpc.net/problem/9251)|골드|DP|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P9251/Main.java)|
+|DAY00|[P11726](https://www.acmicpc.net/problem/11726)|실버|DP|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P11726/Main.java)|
+|DAY00|[P11727](https://www.acmicpc.net/problem/11727)|실버|DP|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P11727/Main.java)|
+|DAY00|[P11444](https://www.acmicpc.net/problem/11444)|골드|분할정복|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P11444/Main.java)|
+|DAY00|[P10830](https://www.acmicpc.net/problem/10830)|골드|분할정복|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P10830/Main.java)|
+|DAY00|[P2740](https://www.acmicpc.net/problem/2740)|골드|분할정복|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P2740/Main.java)|
+
+
 
 
 ### DAY01 : 알고리즘 기초
@@ -109,5 +116,6 @@
 |FINAL|[P2470](https://www.acmicpc.net/problem/2470)|골드|투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P2470/Main.java)|
 |FINAL|[P3273](https://www.acmicpc.net/problem/3273)|실버|투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P3273/Main.java)|
 |FINAL|[P1450](https://www.acmicpc.net/problem/1450)|골드|냅색|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P1450/Main.java)|
+|FINAL|[P12865](https://www.acmicpc.net/problem/12865)|골드|냅색|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P12865/Main.java)|
 
 
