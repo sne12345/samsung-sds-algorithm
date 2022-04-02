@@ -20,6 +20,12 @@
 |DAY00|[P11444](https://www.acmicpc.net/problem/11444)|골드|분할정복|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P11444/Main.java)|
 |DAY00|[P10830](https://www.acmicpc.net/problem/10830)|골드|분할정복|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P10830/Main.java)|
 |DAY00|[P2740](https://www.acmicpc.net/problem/2740)|골드|분할정복|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P2740/Main.java)|
+|DAY00|[P3036](https://www.acmicpc.net/problem/3036)|골드|정수론&유클리드호제법|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P3036/Main.java)|
+|DAY00|[P2981](https://www.acmicpc.net/problem/2981)|골드|정수론&유클리드호제법|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P2981/Main.java)|
+|DAY00|[P2609](https://www.acmicpc.net/problem/2609)|실버|정수론&유클리드호제법|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P2609/Main.java)|
+|DAY00|[P1934](https://www.acmicpc.net/problem/1934)|실버|정수론&유클리드호제법|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P1934/Main.java)|
+|DAY00|[P11659](https://www.acmicpc.net/problem/11659)|실버|누적합|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/DAY00/P11659/Main.java)|
+
 
 
 
@@ -117,5 +123,14 @@
 |FINAL|[P3273](https://www.acmicpc.net/problem/3273)|실버|투포인터|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P3273/Main.java)|
 |FINAL|[P1450](https://www.acmicpc.net/problem/1450)|골드|냅색|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P1450/Main.java)|
 |FINAL|[P12865](https://www.acmicpc.net/problem/12865)|골드|냅색|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P12865/Main.java)|
+|FINAL|[P13458](https://www.acmicpc.net/problem/13458)|실버|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P13458/Main.java)|
+|FINAL|[P14499](https://www.acmicpc.net/problem/14499)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P14499/Main.java)|
+
+
+### KAKAO 코딩테스트 대비 : 2022 KAKAO BLIND RECRUITMENT
+|일차|문제|난이도|알고리즘|풀이|
+|---|---|---|---|---|
+|KAKAO|[P92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|LEVEL1|구현&해시|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92334/Main.java)|
+
 
 
