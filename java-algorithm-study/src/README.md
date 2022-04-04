@@ -125,6 +125,9 @@
 |FINAL|[P12865](https://www.acmicpc.net/problem/12865)|골드|냅색|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P12865/Main.java)|
 |FINAL|[P13458](https://www.acmicpc.net/problem/13458)|실버|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P13458/Main.java)|
 |FINAL|[P14499](https://www.acmicpc.net/problem/14499)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P14499/Main.java)|
+|FINAL|[P14500](https://www.acmicpc.net/problem/14500)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P14500/Main.java)|
+|FINAL|[P14501](https://www.acmicpc.net/problem/14501)|실버|DP|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P14501/Main.java)|
+
 
 
 ### KAKAO 코딩테스트 대비 : 2022 KAKAO BLIND RECRUITMENT
