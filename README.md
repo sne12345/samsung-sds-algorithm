@@ -1,4 +1,5 @@
 # 삼성SDS 22년 동계 대학생 알고리즘 특강
+#### :link: 바로가기  https://github.com/sne12345/samsung-sds-algorithm/tree/master/java-algorithm-study/src
 
 ### DAY00 : 특강준비 
 |일차|문제|난이도|알고리즘|풀이|
