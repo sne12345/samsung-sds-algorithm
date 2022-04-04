@@ -135,6 +135,8 @@
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
 |BLIND22|[P92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|LEVEL1|구현&해시|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92334/Main.java)|
+|BLIND22|[P92335](https://programmers.co.kr/learn/courses/30/lessons/92335)|LEVEL2|소수&진법|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92335/Main.java)|
+
 
 
 
