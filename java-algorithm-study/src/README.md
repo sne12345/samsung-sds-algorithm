@@ -133,7 +133,7 @@
 ### KAKAO 코딩테스트 대비 : 2022 KAKAO BLIND RECRUITMENT
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
-|KAKAO|[P92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|LEVEL1|구현&해시|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92334/Main.java)|
+|BLIND22|[P92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|LEVEL1|구현&해시|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92334/Main.java)|
 
 
 
