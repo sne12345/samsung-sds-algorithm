@@ -1,4 +1,5 @@
 # 삼성SDS 22년 동계 대학생 알고리즘 특강
+#### :link: 코드보기  https://github.com/sne12345/samsung-sds-algorithm/tree/master/java-algorithm-study/src
 
 ### DAY00 : 특강준비 
 |일차|문제|난이도|알고리즘|풀이|
@@ -134,6 +135,8 @@
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
 |BLIND22|[P92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|LEVEL1|구현&해시|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92334/Main.java)|
+|BLIND22|[P92335](https://programmers.co.kr/learn/courses/30/lessons/92335)|LEVEL2|소수&진법|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92335/Main.java)|
+
 
 
 
