@@ -128,7 +128,8 @@
 |FINAL|[P14499](https://www.acmicpc.net/problem/14499)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P14499/Main.java)|
 |FINAL|[P14500](https://www.acmicpc.net/problem/14500)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P14500/Main.java)|
 |FINAL|[P14501](https://www.acmicpc.net/problem/14501)|실버|DP|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P14501/Main.java)|
-
+|FINAL|[P14503](https://www.acmicpc.net/problem/14503)|골드|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P14503/Main.java)|
+|FINAL|[P14891](https://www.acmicpc.net/problem/14891)|골드|구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P14891/Main.java)|
 
 
 ### KAKAO 코딩테스트 대비 : 2022 KAKAO BLIND RECRUITMENT
@@ -136,6 +137,7 @@
 |---|---|---|---|---|
 |BLIND22|[P92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|LEVEL1|구현&해시|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92334/Main.java)|
 |BLIND22|[P92335](https://programmers.co.kr/learn/courses/30/lessons/92335)|LEVEL2|소수&진법|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92335/Main.java)|
+|BLIND22|[P92341](https://programmers.co.kr/learn/courses/30/lessons/92341)|LEVEL2|해시|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92341/Main.java)|
 
 
 
