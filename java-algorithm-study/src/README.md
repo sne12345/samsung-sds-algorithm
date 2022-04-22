@@ -132,6 +132,7 @@
 |FINAL|[P16234](https://www.acmicpc.net/problem/16234)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P16234/Main.java)|
 |FINAL|[P16235](https://www.acmicpc.net/problem/16235)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P16235/Main.java)|
 |FINAL|[P16236](https://www.acmicpc.net/problem/16236)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P16236/Main.java)|
+|FINAL|[P17142](https://www.acmicpc.net/problem/17142)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P17142/Main.java)|
 
 
 
