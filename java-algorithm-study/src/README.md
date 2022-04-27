@@ -135,6 +135,7 @@
 |FINAL|[P17142](https://www.acmicpc.net/problem/17142)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P17142/Main.java)|
 |FINAL|[P17140](https://www.acmicpc.net/problem/17140)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P17140/Main.java)|
 |FINAL|[P17837](https://www.acmicpc.net/problem/17837)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P17837/Main.java)|
+|FINAL|[P20061](https://www.acmicpc.net/problem/20061)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/FINAL/P20061/Main.java)|
 
 
 ### KAKAO 코딩테스트 대비 : 2022 KAKAO BLIND RECRUITMENT
@@ -145,6 +146,9 @@
 |BLIND22|[P92341](https://programmers.co.kr/learn/courses/30/lessons/92341)|LEVEL2|해시|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92341/Main.java)|
 |BLIND22|[P92342](https://programmers.co.kr/learn/courses/30/lessons/92342)|LEVEL2|dfs|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/KAKAO/BLIND22/P92342/Main.java)|
 
-
+### SWEA 모의고사
+|일차|문제|난이도|알고리즘|풀이|
+|---|---|---|---|---|
+|SWEA|[S2383](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl)|골드|시뮬레이션&구현|[JAVA](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/SWEA/S2383/Solution.java)|
 
 
