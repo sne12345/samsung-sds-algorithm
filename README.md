@@ -160,4 +160,4 @@
 ### 프로그래머스
 |일차|문제|난이도|알고리즘|풀이|
 |---|---|---|---|---|
-|DAY01|https://school.programmers.co.kr/learn/courses/30/lessons/43165|LEVEL2|DFS&BFS|https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/PROGRAMMERS/LEVEL2/P43165.py|
+|DAY01|[P43165](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|LEVEL2|DFS&BFS|[PYTHON](https://github.com/sne12345/samsung-sds-algorithm/blob/master/java-algorithm-study/src/PROGRAMMERS/LEVEL2/P43165.py)|
